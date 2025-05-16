@@ -1,4 +1,4 @@
-﻿using PlayerPrefs = PreviewLabs.PlayerPrefs;
+using PlayerPrefs = PreviewLabs.PlayerPrefs;
 using System.Globalization;
 
 /// <summary>

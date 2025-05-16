@@ -1,4 +1,4 @@
-﻿public class LoginScreenFBHandler : IPacketHandler
+public class LoginScreenFBHandler : IPacketHandler
 {
     public byte HandlerCode => 0xFB;
 

@@ -1,4 +1,4 @@
-﻿public enum UpdateType
+public enum UpdateType
 {
     /// <summary>
     /// An item consumption failed, no value is updated.

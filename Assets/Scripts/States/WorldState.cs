@@ -1,4 +1,4 @@
-﻿public class WorldState : BaseState
+public class WorldState : BaseState
 {
     [Inject]
     public MainModel MainModel { get; private set; }

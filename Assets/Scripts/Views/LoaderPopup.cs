@@ -1,3 +1,3 @@
-﻿public class LoaderPopup : BasePopup
+public class LoaderPopup : BasePopup
 {
 }

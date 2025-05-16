@@ -1,4 +1,4 @@
-﻿public class InitializeMessengerHandler : IPacketHandler
+public class InitializeMessengerHandler : IPacketHandler
 {
     public byte HandlerCode => 0xC0;
 

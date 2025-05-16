@@ -1,4 +1,4 @@
-﻿public abstract class BasePopup : CachedMonoBehaviour
+public abstract class BasePopup : CachedMonoBehaviour
 {
     public bool IsShowed { get { return gameObject.activeSelf; } }
 

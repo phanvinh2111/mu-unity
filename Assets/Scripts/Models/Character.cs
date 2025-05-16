@@ -1,4 +1,4 @@
-﻿namespace UniMU.Models
+namespace UniMU.Models
 {
     using System;
     using System.Collections.Generic;

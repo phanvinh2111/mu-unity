@@ -1,4 +1,4 @@
-﻿using log4net;
+using log4net;
 using MUnique.OpenMU.Network;
 
 public class GetServerInfoHandler : IPacketHandler, ISubPacketHandler

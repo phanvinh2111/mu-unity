@@ -1,4 +1,4 @@
-﻿// <copyright file="Xor32Encryptor.cs" company="MUnique">
+// <copyright file="Xor32Encryptor.cs" company="MUnique">
 // Licensed under the MIT License. See LICENSE file in the project root for full license information.
 // </copyright>
 

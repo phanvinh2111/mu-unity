@@ -1,4 +1,4 @@
-﻿using strange.extensions.context.impl;
+using strange.extensions.context.impl;
 using strange.extensions.signal.impl;
 using UnityEngine;
 using System.Diagnostics;

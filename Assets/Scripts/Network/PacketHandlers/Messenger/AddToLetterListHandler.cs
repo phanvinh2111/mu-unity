@@ -1,4 +1,4 @@
-﻿public class AddToLetterListHandler : IPacketHandler
+public class AddToLetterListHandler : IPacketHandler
 {
     public byte HandlerCode => 0xC6;
 

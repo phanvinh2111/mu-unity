@@ -1,4 +1,4 @@
-﻿public class PreloaderState : BaseState
+public class PreloaderState : BaseState
 {
     [Inject]
     public PreloaderScreen PreloaderScreen { get; private set; }

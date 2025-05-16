@@ -1,4 +1,4 @@
-﻿public class UpdateManaHandler : IPacketHandler
+public class UpdateManaHandler : IPacketHandler
 {
     public byte HandlerCode => 0x27;
 

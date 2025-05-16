@@ -1,4 +1,4 @@
-﻿using UniMU.Models;
+using UniMU.Models;
 
 public class CreateCharacterState : BaseAdditionalState
 {

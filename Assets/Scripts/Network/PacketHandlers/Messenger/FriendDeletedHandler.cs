@@ -1,4 +1,4 @@
-﻿public class FriendDeletedHandler : IPacketHandler
+public class FriendDeletedHandler : IPacketHandler
 {
     public byte HandlerCode => 0xC3;
 

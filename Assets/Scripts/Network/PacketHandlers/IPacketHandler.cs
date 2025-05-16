@@ -1,4 +1,4 @@
-﻿public interface IPacketHandler
+public interface IPacketHandler
 {
     byte HandlerCode { get; }
 

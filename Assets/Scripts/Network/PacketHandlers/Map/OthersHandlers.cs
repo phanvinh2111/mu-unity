@@ -1,4 +1,4 @@
-﻿using log4net;
+using log4net;
 
 public class MagicEffectHandler : IPacketHandler
 {

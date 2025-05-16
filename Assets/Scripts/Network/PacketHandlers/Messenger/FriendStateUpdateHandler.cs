@@ -1,4 +1,4 @@
-﻿public class FriendStateUpdateHandler : IPacketHandler
+public class FriendStateUpdateHandler : IPacketHandler
 {
     public byte HandlerCode => 0xC4;
 

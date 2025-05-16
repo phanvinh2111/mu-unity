@@ -1,3 +1,3 @@
-﻿public class LoadingCharacterScreen : BasePopup
+public class LoadingCharacterScreen : BasePopup
 {
 }

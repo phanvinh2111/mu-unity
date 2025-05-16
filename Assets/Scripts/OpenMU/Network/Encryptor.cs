@@ -1,4 +1,4 @@
-﻿using MUnique.OpenMU.Network.Xor;
+using MUnique.OpenMU.Network.Xor;
 
 namespace MUnique.OpenMU.Network
 {

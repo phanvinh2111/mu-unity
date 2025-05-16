@@ -1,4 +1,4 @@
-﻿public class UpdateHealthHandler : IPacketHandler
+public class UpdateHealthHandler : IPacketHandler
 {
     public byte HandlerCode => 0x26;
 

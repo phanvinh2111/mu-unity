@@ -1,4 +1,4 @@
-﻿public class SayHelloHandler : IPacketHandler
+public class SayHelloHandler : IPacketHandler
 {
     public byte HandlerCode => 0x00;
 

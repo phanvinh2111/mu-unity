@@ -1,4 +1,4 @@
-﻿public class ShowFriendRequestHandler : IPacketHandler
+public class ShowFriendRequestHandler : IPacketHandler
 {
     public byte HandlerCode => 0xC2;
 

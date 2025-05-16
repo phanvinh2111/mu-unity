@@ -1,4 +1,4 @@
-﻿using strange.extensions.command.impl;
+using strange.extensions.command.impl;
 
 public class LoadStateCommand<T> : Command where T : IState
 {

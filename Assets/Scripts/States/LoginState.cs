@@ -1,4 +1,4 @@
-﻿public class LoginState : BaseState
+public class LoginState : BaseState
 {
     [Inject]
     public LoginScreen LoginScreen { get; private set; }

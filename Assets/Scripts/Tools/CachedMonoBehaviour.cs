@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Created by Alexander Sosnovskiy. May 3, 2016
  */
 using UnityEngine;

@@ -1,4 +1,4 @@
-﻿public class LoadingCharacterState : BaseState
+public class LoadingCharacterState : BaseState
 {
     [Inject]
     public MainModel MainModel { get; private set; }

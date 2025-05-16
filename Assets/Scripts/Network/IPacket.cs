@@ -1,4 +1,4 @@
-﻿public interface IPacket
+public interface IPacket
 {
     byte[] Data { get; }
 }
